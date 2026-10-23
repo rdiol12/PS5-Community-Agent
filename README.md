@@ -1,3 +1,5 @@
+<p align="center"><a href="https://www.buymeacoffee.com/rdiol12" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" height="60" width="217"></a></p>
+
 # PS5 Community Agent
 
 > **Alpha software:** this build is experimental. Multiplayer is still under development and may fail, hang, or require an updated profile. Use it only on a console and game copy you own.
@@ -58,11 +60,3 @@ Verify the hash before loading the ELF. Do not use binaries redistributed under 
 - Stable end-to-end multiplayer has not yet been declared complete.
 - The agent currently depends on ShadowMount Plus for game discovery and overlay loading.
 - No source code or copyrighted game content is distributed in this repository.
-
----
-
-## Support ☕
-
-If my work saves you time, you can fuel the next project:
-
-<a href="https://www.buymeacoffee.com/rdiol12" target="_blank"><img src="https://img.shields.io/badge/Buy%20me%20a%20coffee-FFDD00?logo=buymeacoffee&logoColor=black" alt="Buy Me A Coffee" height="32"></a>
