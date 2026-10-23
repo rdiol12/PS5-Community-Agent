@@ -1,4 +1,16 @@
-<p align="center"><a href="https://www.buymeacoffee.com/rdiol12" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" height="60" width="217"></a></p>
+<div align="center">
+
+<a href="https://www.buymeacoffee.com/rdiol12" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" height="60" width="217"></a>
+
+*If my work helped you, a coffee keeps the next project coming.*
+
+**Alpha PS5 Community Agent binary and setup documentation**
+
+<img src="https://img.shields.io/badge/Open%20Source-2b3137?style=for-the-badge" alt="Open Source"> <img src="https://img.shields.io/badge/Maintained-2026-2b3137?style=for-the-badge" alt="Maintained">
+
+</div>
+
+---
 
 # PS5 Community Agent
 
